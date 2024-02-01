@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barack Obama Tribute</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(255,255,0);
+            color: (0,0,0) ;
+        }
+
+        header {
+            background-color: rgb(255,0,0);
+            color: rgb(0,0,0);
+            padding: 1em;
+            text-align: center;
+            text-decoration: underline
+        }
+
+        article {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgb(125,200,160);
+            box-shadow: 0 0 10px rgba(0, 155, 0, 0.2);
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: rgb(0,0,0);
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: rgb(0,225,25);
+            color: rgb(1,2,255);
+            font-style: italic; bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Barack Obama: A Remarkable Leader</h1>
+    </header>
+
+    <article>
+        <img src="obama.jpg" alt="Barack Obama">
+        <p>Barack Obama, born on August 4, 1961, in Honolulu, Hawaii, is an inspirational figure and a transformative leader. He served as the 44th President of the United States from 2009 to 2017, making history as the first African American to hold this esteemed office.</p>
+
+        <p>Throughout his presidency, Obama focused on addressing critical issues, from healthcare reform with the Affordable Care Act to efforts in combating climate change. His eloquent speeches and commitment to diplomacy have left a lasting impact on both the nation and the world.</p>
+
+        <p>Before entering politics, Obama worked as a community organizer and taught constitutional law, showcasing his dedication to public service and the principles of democracy. His legacy extends beyond his time in office, serving as an inspiration for future leaders and activists.</p>
+    </article>
+
+    <footer>
+        <p>Published on 01/02/24 | Tribute to Barack Obama</p>
+    </footer>
+
+</body>
+
+</html>
